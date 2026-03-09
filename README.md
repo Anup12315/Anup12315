@@ -75,5 +75,8 @@ I enjoy experimenting with new technologies and building useful applications.
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Anup12315&theme=tokyonight)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Anup12315&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
 ⭐ **From [Anup12315](https://github.com/Anup12315)**
