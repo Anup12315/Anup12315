@@ -6,8 +6,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Machine+Learning+Explorer;Python+Developer;Always+learning+new+technologies" />
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=Anup12315&color=blue)
----
+![](https://komarev.com/ghpvc/?username=Anup12315&style=flat-square&color=blue)---
 
 ## 👨‍💻 About Me
 
