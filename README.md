@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey 👋 I'm Anup Goudar
 
-<!--
-**Anup12315/Anup12315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about building software across different domains.
 
-Here are some ideas to get you started:
+🔭 Projects I worked on
+- Multi-Domain Insider Threat Detection System (Python & Machine Learning)
+- Movie Success Prediction using ML
+- Music Playlist Management System
+- Expense Tracking Application
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning
+- Advanced Machine Learning
+- System Design
+- AI-driven applications
+
+💡 Interests
+- Full Stack Development
+- Machine Learning
+- Data Analysis
+- Problem Solving
+
+⚡ Fun fact  
+I enjoy experimenting with new technologies and building useful applications.
+
+
+![Anup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anup12315&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anup12315&layout=compact&theme=tokyonight)
+
+## 🚀 Tech Stack
+
+Python | Java | C | JavaScript | React | Node.js | MongoDB | MySQL | Git | Linux
