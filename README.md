@@ -45,10 +45,9 @@ I enjoy experimenting with new technologies and building useful applications.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anup12315&show_icons=true&theme=tokyonight" height="170">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anup12315&show_icons=true&theme=tokyonight">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anup12315&layout=compact&theme=tokyonight" height="170">
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anup12315&layout=compact&theme=tokyonight">
 </p>
 
 ---
