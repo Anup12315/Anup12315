@@ -1,32 +1,75 @@
-# Hey 👋 I'm Anup Goudar
+<h1 align="center">Hi 👋, I'm Anup Goudar</h1>
+<h3 align="center">Full Stack Developer | Machine Learning Enthusiast | Problem Solver</h3>
 
-💻 Passionate about building software across different domains.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Machine+Learning+Explorer;Python+Developer;Always+learning+new+technologies" />
+</p>
 
-🔭 Projects I worked on
-- Multi-Domain Insider Threat Detection System (Python & Machine Learning)
-- Movie Success Prediction using ML
-- Music Playlist Management System
-- Expense Tracking Application
+---
 
-🌱 Currently learning
+## 👨‍💻 About Me
+
+💡 Passionate about building software across different domains.
+
+🔭 **Projects I worked on**
+
+- 🧠 Multi-Domain Insider Threat Detection System (Python & ML)
+- 🎬 Movie Success Prediction using Machine Learning
+- 🎵 Music Playlist Management System
+- 💰 Expense Tracking Application
+
+🌱 **Currently learning**
+
 - Advanced Machine Learning
 - System Design
 - AI-driven applications
 
-💡 Interests
-- Full Stack Development
-- Machine Learning
-- Data Analysis
-- Problem Solving
+⚡ **Fun Fact**
 
-⚡ Fun fact  
 I enjoy experimenting with new technologies and building useful applications.
 
+---
 
-![Anup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anup12315&show_icons=true&theme=tokyonight)
+# 🚀 Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anup12315&layout=compact&theme=tokyonight)
+<p align="center">
 
-## 🚀 Tech Stack
+<img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,mongodb,mysql,git,linux,vscode" />
 
-Python | Java | C | JavaScript | React | Node.js | MongoDB | MySQL | Git | Linux
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anup12315&show_icons=true&theme=tokyonight" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anup12315&layout=compact&theme=tokyonight" height="170">
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anup12315&theme=tokyonight">
+</p>
+
+---
+
+# 📫 Connect with me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/anup-goudar">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</p>
+
+---
+
+⭐ **From [Anup12315](https://github.com/Anup12315)**
