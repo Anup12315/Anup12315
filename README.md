@@ -64,7 +64,7 @@ I enjoy experimenting with new technologies and building useful applications.
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/anup-goudar">
+<a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/anup-goudar-b3b656315/)">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
