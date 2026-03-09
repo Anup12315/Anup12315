@@ -40,7 +40,8 @@ I enjoy experimenting with new technologies and building useful applications.
 
 ---
 
-# 📊 GitHub Stats
+
+## 📊 GitHub Stats
 
 <p align="center">
 
