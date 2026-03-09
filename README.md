@@ -62,11 +62,9 @@ I enjoy experimenting with new technologies and building useful applications.
 
 ## 📫 Connect with me
 
-<p align="center">
-<a href="https://www.linkedin.com/in/anup-goudar-b3b656315/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anup%20Goudar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anup-goudar-b3b656315/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-@anup12315-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anup12315/)
 
 ---
 
